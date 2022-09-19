@@ -1,1 +1,1 @@
-echo "Goodbye test1"
+echo "Goodbye test2"
